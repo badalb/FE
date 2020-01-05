@@ -11,3 +11,4 @@ Add your findings here
 8. "-1" should be updated with the median value in the column "Manifestations"
 9. Blank and "-8" values in the column "Defect_in_the_network_of_trolleybuses" should be updated with mean value
 10. Blank values in the column "Semaphore_off" should be updated with mode
+11. Slowness_in_traffic_percent is the output
